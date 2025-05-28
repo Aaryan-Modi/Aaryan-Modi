@@ -8,7 +8,7 @@
 - 🎓 B.Tech student at DA-IICT, Gandhinagar — building the future, one line of code at a time 💻🚀 
 - 🔎 Diving headfirst into Web-Dev 🌐 and Python 🐍 — learning tons and loving every minute!⌚
 - 😎 Unlocking digital secrets, exploring Cybersecurity 🔐 and Ethical Hacking 💀🕵️‍♂️💻
-- 🛠️ Passionate about building cool tech and always eager to learn something new💡"
+- 🛠️ Passionate about building cool tech and always eager to learn something new💡
 
 ---
 
