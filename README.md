@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast | 🔎 Exploring Cyber-Security & 💀Ethical Hacking</h3>
+<h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast | 🔎 Exploring🛡️Cyber-Security(💀Hacking(Ethical))</h3>
 
 ---
 
