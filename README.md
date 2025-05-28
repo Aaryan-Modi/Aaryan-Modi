@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast | 🔎 Exploring 🛡️Cyber-Security & 💀🏴‍☠Ethical Hacking</h3>
+<h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast | 🔎 Exploring Cyber-Security & 💀Ethical Hacking</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech student at DA-IICT, Gandhinagar — building the future, one line of code at a time 💻🚀 
 - 🔎 Diving headfirst into Web-Dev 🌐 and Python 🐍 — learning tons and loving every minute!⌚
-- 🧑‍💻😎 Unlocking digital secrets, exploring Cybersecurity 🔐 and Ethical Hacking 💀🕵️‍♂️💻
+- 😎 Unlocking digital secrets, exploring Cybersecurity 🔐 and Ethical Hacking 💀🕵️‍♂️💻
 - 🛠️ Passionate about building cool tech and always eager to learn something new💡"
 
 ---
@@ -26,15 +26,17 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaryan-Modi&theme=neon&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aaryan-Modi&theme=neon&hide_border=false" />
+  <img width = "40%" src="https://github-readme-stats.vercel.app/api?username=Aaryan-Modi&theme=neon&hide_border=false&include_all_commits=true&count_private=false" />
+  <img width = "50%" src="https://nirzak-streak-stats.vercel.app/?user=Aaryan-Modi&theme=neon&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-Modi&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
+
 ---
 
 ### ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img height = auto src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
+---
