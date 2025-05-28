@@ -36,7 +36,7 @@
 ### ✍️ Random Dev Quote
 
 <div align="center">
-  <img height = auto src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img height = auto width = auto src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
